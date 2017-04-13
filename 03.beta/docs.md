@@ -9,6 +9,7 @@ Reel is currently in beta, meaning it is not feature complete and there will be 
 ## Features still to be implemented
 
 - Search for video by URL or ID
+- Upgrading from Wyvern Video in ExpressionEngine 2
 - Matrix support
 - Bloqs support
 - Low Variables support
