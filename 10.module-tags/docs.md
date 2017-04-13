@@ -8,33 +8,33 @@ Reel 1.2 introduced module tags for searching YouTube and Vimeo. Below are examp
 
 The following parameters are available to both tags:
 
-## ```query=”“```
+```query=”“```
 
-> Optional. Enter any search string to use for querying videos.
+ Optional. Enter any search string to use for querying videos.
 
-## ```user=”“```
+```user=”“```
 
-> Optional. Username to restrict all searches to. If no query parameter is used, defining a user will limit all video results to that user.
+ Optional. Username to restrict all searches to. If no query parameter is used, defining a user will limit all video results to that user.
 
-## ```limit=”“```
+```limit=”“```
 
-> Optional. Number of videos to show. Defaults to 20.
+ Optional. Number of videos to show. Defaults to 20.
 
-## ```offset=”“```
+```offset=”“```
 
-> Optional. Offset the query results. For example, do not show the first 3 videos.
+ Optional. Offset the query results. For example, do not show the first 3 videos.
 
-## ```variable_prefix=”“```
+```variable_prefix=”“```
 
-> Optional. Allows you to prefix all variables within the tag to avoid possible collisions with other modules.
+ Optional. Allows you to prefix all variables within the tag to avoid possible collisions with other modules.
 
-## ```width=”“```
+```width=”“```
 
-> Optional. The width of the video if using the {embed} tag. Defaults to 360.
+ Optional. The width of the video if using the {embed} tag. Defaults to 360.
 
-## ```height=”“```
+```height=”“```
 
-> Optional. The height of the video if using the {embed} tag. Defaults to 240.
+ Optional. The height of the video if using the {embed} tag. Defaults to 240.
 
 Tag examples with all available variables.
 

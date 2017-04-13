@@ -1,5 +1,5 @@
 ---
-title: Field Beta
+title: Beta
 taxonomy:
     category: docs
 ---
