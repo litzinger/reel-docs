@@ -24,6 +24,8 @@ The following parameters are available to both tags:
 
  Optional. Offset the query results. For example, do not show the first 3 videos.
 
+ >>> Offset parameter is no longer supported due to changes in the most recent versions of the YouTube and Vimeo APIs.
+
 ```variable_prefix=”“```
 
  Optional. Allows you to prefix all variables within the tag to avoid possible collisions with other modules.
